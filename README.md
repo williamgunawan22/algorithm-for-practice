@@ -10,7 +10,7 @@ For the next language is programming language **Python and Java**.
 For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
 
 
-#### Javascript
+### Javascript
 - Sort
  - Merge Sort
  - Quick Sort
@@ -22,19 +22,19 @@ For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
  - Suffix Array
 
 
-#### PHP
+### PHP
 - Sort
- - Merge Sort
- - Quick Sort
- - Insertion Sort
- - Bubble Sort
+  - Merge Sort
+  - Quick Sort
+  - Insertion Sort
+  - Bubble Sort
 
 - Search
  - Binary Search
  - Suffix Array
 
 
-#### GOLANG
+### GOLANG
 - Sort
  - Merge Sort
  - Quick Sort
