@@ -12,14 +12,14 @@ For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
 
 ### Javascript
 - Sort
- - Merge Sort
- - Quick Sort
- - Insertion Sort
- - Bubble Sort
+  - Merge Sort
+  - Quick Sort
+  - Insertion Sort
+  - Bubble Sort
 
 - Search
- - Binary Search
- - Suffix Array
+  - Binary Search
+  - Suffix Array
 
 
 ### PHP
@@ -30,16 +30,16 @@ For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
   - Bubble Sort
 
 - Search
- - Binary Search
- - Suffix Array
+  - Binary Search
+  - Suffix Array
 
 
 ### GOLANG
 - Sort
- - Merge Sort
- - Quick Sort
- - Insertion Sort
- - Bubble Sort
+  - Merge Sort
+  - Quick Sort
+  - Insertion Sort
+  - Bubble Sort
 
 - Search
- - Binary Search
+  - Binary Search
