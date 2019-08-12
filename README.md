@@ -9,33 +9,42 @@ For the next language is programming language Python and Java.
 
 For the next algorithm is Radix Sort (String and Int) and Suffix Tree.
 
-Table of content is
+Table of content
+
 Javascript
+
 Sort
 - Merge Sort
 - Quick Sort
 - Insertion Sort
 - Bubble Sort
+
 Search
 - Binary Search
 - Suffix Array
+
 
 PHP
+
 Sort
 - Merge Sort
 - Quick Sort
 - Insertion Sort
 - Bubble Sort
+
 Search
 - Binary Search
 - Suffix Array
 
+
 GOLANG
+
 Sort
 - Merge Sort
 - Quick Sort
 - Insertion Sort
 - Bubble Sort
+
 Search
 - Binary Search
 - Suffix Array
