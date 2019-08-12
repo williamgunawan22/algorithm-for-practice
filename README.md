@@ -1,5 +1,5 @@
 # Algorithm For Practice
-This repository created for help folks practice algorithm,** important code have a helpful comment** to figure out what the algorithm doing. 
+This repository created for help folks practice algorithm, **important code have a helpful comment** to figure out what the algorithm doing. 
 
 It's easier to learn the algorithm in your favourite language that the reason i made this repository. I found out it's pretty hard to find resource with **multiple programming language** for us to choose.
 
