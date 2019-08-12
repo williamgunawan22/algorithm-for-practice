@@ -5,9 +5,9 @@ It's easier to learn the algorithm in your favourite language that the reason i 
 
 This repository can also help you to figure out the difference between language, how things work for each language.
 
-For the next language is programming language **Python and Java**.
+For the next language is programming language **Python** and **Java**.
 
-For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
+For the next algorithm is **Radix Sort (String and Int)** and **Suffix Tree**.
 
 
 ### Javascript
