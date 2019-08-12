@@ -1,4 +1,4 @@
-#Algorithm For Practice
+# Algorithm For Practice
 This repository created for help folks practice algorithm,** important code have a helpful comment** to figure out what the algorithm doing. 
 
 It's easier to learn the algorithm in your favourite language that the reason i made this repository. I found out it's pretty hard to find resource with **multiple programming language** for us to choose.
@@ -10,7 +10,7 @@ For the next language is programming language **Python and Java**.
 For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
 
 
-####Javascript
+#### Javascript
 - Sort
  - Merge Sort
  - Quick Sort
@@ -22,7 +22,7 @@ For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
  - Suffix Array
 
 
-####PHP
+#### PHP
 - Sort
  - Merge Sort
  - Quick Sort
@@ -34,7 +34,7 @@ For the next algorithm is **Radix Sort (String and Int) and Suffix Tree**.
  - Suffix Array
 
 
-####GOLANG
+#### GOLANG
 - Sort
  - Merge Sort
  - Quick Sort
